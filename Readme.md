@@ -5,3 +5,7 @@ Front-end (React Native App )
 
 Backend
 - NodeJs: As APIs foram desenvolvidas para conversar com o MongoDB e retornar as respostas de acordo com cada request do front-end.  
+
+
+PROJETO WEB FRONT-END (ReactJS)
+- Imagens localizadas na Pasta "ReactJS Site"
